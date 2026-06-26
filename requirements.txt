@@ -9,9 +9,8 @@ mysqlclient==2.2.8
  
 
 pillow==12.2.0
-psycopg2-binary==2.9.10
 python-dotenv==1.1.0
-razorpay==1.4.0
+razorpay==1.4.2
 reportlab==4.5.1
 stripe==11.4.1
 requests==2.34.2
